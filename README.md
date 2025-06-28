@@ -1,6 +1,5 @@
 # LeetKit 🚀
 
-![LeetKit Banner](https://your-image-url.com/banner.png) <!-- Replace with actual banner/logo if available -->
 
 [![Last Commit](https://img.shields.io/github/last-commit/prashantjag/LeetKit?style=flat-square)](https://github.com/prashantjag/LeetKit/commits/main)
 [![Stars](https://img.shields.io/github/stars/prashantjag/LeetKit?style=flat-square)](https://github.com/prashantjag/LeetKit/stargazers)
